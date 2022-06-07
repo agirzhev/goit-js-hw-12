@@ -1,0 +1,50 @@
+.gallery{
+
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.photo-card {
+
+  float: left;
+  width: 25%;
+  border: 5px;
+  border-color: black;
+  
+}
+
+.info{
+
+  display: flex;
+
+}
+
+.info-item{
+  
+  text-align: center;
+
+}
+
+.search-form{
+
+  display: flex;
+  background-color: darkslateblue;
+  height: 70px;
+
+}
+
+input{
+  
+  margin: auto 0 ;
+  margin-left: auto;
+
+
+}
+
+button {
+
+  margin: auto 0;
+  margin-right: auto;
+
+}
